@@ -1,0 +1,42 @@
+_repo: The-Uncommercial-Traveller_914
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "The Uncommercial Traveller is a collection of literary sketches and\
+  \ reminiscences written by Charles Dickens.\nIn 1859 Dickens founded a new journal\
+  \ called All the Year Round and the Uncommercial Traveller articles would be among\
+  \ his main contributions. He seems to have chosen the title and persona of the Uncommercial\
+  \ Traveller as a result of a speech he gave on 22 December 1859 to the Commercial\
+  \ Travellers' School London in his role as honorary chairman and treasurer. The\
+  \ persona sits well with a writer who liked to travel, not only as a tourist, but\
+  \ also to research and report what he found; visiting Europe, America and giving\
+  \ book readings throughout Britain. He does not seem content to rest late in his\
+  \ career when he had attained wealth and comfort and continued travelling locally,\
+  \ walking the streets of London in the mould of the flâneur, a 'gentleman stroller\
+  \ of city streets'. He often suffered from insomnia and his night-time wanderings\
+  \ gave him an insight into some of the hidden aspects of Victorian London, details\
+  \ of which he also incorporated into his novels.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '914'
+  wikidata: Q7771322
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social conditions -- 19th century'
+- !lcsh 'London (England) -- Description and travel'
+- !lcc 'PR'
+title: The Uncommercial Traveller
+url: http://www.gutenberg.org/ebooks/914
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Uncommercial_Traveller
+- https://nl.wikipedia.org/wiki/The_Uncommercial_Traveller
