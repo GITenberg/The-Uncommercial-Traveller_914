@@ -1,5 +1,8 @@
 _repo: The-Uncommercial-Traveller_914
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 914-h/images/coverb.jpg
 creator:
   author:
     agent_name: Dickens, Charles
@@ -23,6 +26,8 @@ description: "The Uncommercial Traveller is a collection of literary sketches an
   \ of city streets'. He often suffered from insomnia and his night-time wanderings\
   \ gave him an insight into some of the hidden aspects of Victorian London, details\
   \ of which he also incorporated into his novels.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/914#The-Uncommercial-Traveller
 gutenberg_issued: '1997-05-01'
 gutenberg_type: Text
 identifiers:
