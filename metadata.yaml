@@ -1,5 +1,5 @@
 _repo: The-Uncommercial-Traveller_914
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 914-h/images/coverb.jpg
@@ -41,6 +41,7 @@ subjects:
 - !lcsh 'Great Britain -- Social conditions -- 19th century'
 - !lcsh 'London (England) -- Description and travel'
 - !lcc 'PR'
+- GITenberg
 title: The Uncommercial Traveller
 url: http://www.gutenberg.org/ebooks/914
 wikipedia:
